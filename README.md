@@ -18,6 +18,7 @@ macOS | Catalina
  ## *Captura de telas*
  
  ![Captura de Tela 2022-06-19 às 19 54 43](https://user-images.githubusercontent.com/103699861/175837721-556d1306-439d-4d54-94ea-f96bef419adb.png) 
+ ![Captura de Tela 2022-09-07 às 20 44 59](https://user-images.githubusercontent.com/103699861/189007640-4b0ecb58-bf56-4123-945d-c59d5a197017.png)
 
  ## *Agradecimentos*
 
