@@ -1,6 +1,6 @@
 # *EFI OC B85M GAMING-3 macOS Catalina*
 
-*Sistema* | *OC 0.8.4 RELEASE*
+*Sistema* | *OC 0.8.6 RELEASE*
 :---: | :---
 macOS | Catalina
 
@@ -11,7 +11,7 @@ macOS | Catalina
  Placa Mae | B85M Gaming-3
  CPU | I3 4170
  GPU | Intel HD Graphics 4400
- Memória Ram | 1x8GB Total 8GB
+ Memória Ram | 2x8GB Total 16GB
  SSD Sata| Kingston A400 120GB
  Rede| Intel I217
 
