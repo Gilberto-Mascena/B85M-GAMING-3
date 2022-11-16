@@ -2,9 +2,11 @@
 
 ![tag](https://img.shields.io/github/v/release/Gilberto-Mascena/Z390M_GAMING?include_prereleases)
 
-*Sistema* | *OC 0.8.6 RELEASE*
+## *Sistema Operacional*
+
+*macOS* | *Catalina*
 :---: | :---
-macOS | Catalina
+
 
 ## *Meu Setup*
 
@@ -29,3 +31,9 @@ macOS | Catalina
 - [*Dicas do Mateus*](https://www.youtube.com/c/DicasdoMateus)
 - [*CrisHotpatch*](https://t.me/crishotpatch)
 - [*Gabriel Luchina*](https://www.youtube.com/c/GabrielLuchina)
+
+## *Licença* 
+
+*The* [*MIT License*](https://github.com/Gilberto-Mascena/B85M-GAMING-3/blob/main/LICENSE.md) (*MIT*)
+
+*Copyright :copyright: 2020*
