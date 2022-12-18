@@ -1,6 +1,9 @@
 # *EFI OC B85M GAMING-3 macOS Catalina*
 
 ![tag](https://img.shields.io/github/v/release/Gilberto-Mascena/Z390M_GAMING?include_prereleases)
+![release-date](https://img.shields.io/github/release-date/Gilberto-Mascena/B85M-GAMING-3)
+![size](https://img.shields.io/github/repo-size/Gilberto-Mascena/B85M-GAMING-3)
+![license](https://img.shields.io/github/license/Gilberto-Mascena/B85M-GAMING-3)
 
 ## *Sistema Operacional*
 
