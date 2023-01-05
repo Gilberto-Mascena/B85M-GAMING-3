@@ -14,3 +14,4 @@
 ._CpuTscSync.kext
 ._OpenCore.efi
 ._BOOT
+.contentVisibility
