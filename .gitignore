@@ -15,3 +15,5 @@
 ._OpenCore.efi
 ._BOOT
 .contentVisibility
+._*.txt
+._*.png
