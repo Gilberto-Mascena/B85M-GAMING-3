@@ -8,7 +8,7 @@
 ## *Sistema Operacional*
 
 
-<img align="right" src="./Imagens/B85m.png" alt="B85M GAMING 3" width="330">
+<img align="right" src="./Imagens/B85m.png" alt="B85M GAMING 3" width="430">
 
 *macOS* | *Catalina*
 :---: | :---
