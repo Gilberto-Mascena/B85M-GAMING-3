@@ -25,6 +25,13 @@
  SSD Sata| Kingston A400 120GB
  Rede| Intel I217
 
+ ## *O que funciona*
+
+- [x] Áudio.
+- [x] LAN.
+- [x] USB.
+- [x] Sleep.
+
  ## *Captura de telas*
  
  ![Captura de Tela 2022-06-19 às 19 54 43](https://user-images.githubusercontent.com/103699861/175837721-556d1306-439d-4d54-94ea-f96bef419adb.png) 
