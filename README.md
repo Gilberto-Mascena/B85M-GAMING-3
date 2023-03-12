@@ -26,7 +26,7 @@
  Rede| Intel I217
 
  ## *O que funciona*
-
+- [x] Video (onbord via HDMI).
 - [x] Áudio.
 - [x] LAN.
 - [x] USB.
