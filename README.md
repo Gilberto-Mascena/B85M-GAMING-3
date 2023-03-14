@@ -18,7 +18,7 @@
 
 *Config* | *Desktop*
 :---: | :---
- Placa Mae | B85M Gaming-3
+ Placa Mae | [*B85M Gaming-3*](https://www.gigabyte.com/br/Motherboard/GA-B85M-Gaming-3-rev-10#ov)
  CPU | I3 4170
  GPU | Intel HD Graphics 4400
  Memória Ram | 2x8GB Total 16GB
