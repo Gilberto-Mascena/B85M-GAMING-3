@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>#OC-0.9.0-REL-B85M GAMING_3</key>
+	<key>#OC-0.9.1-REL-B85M GAMING_3</key>
 	<string></string>
 	<key>#by Gilberto Mascena</key>
 	<string></string>
@@ -965,6 +965,8 @@
 			<key>DirectGopRendering</key>
 			<false/>
 			<key>ForceResolution</key>
+			<false/>
+			<key>GopBurstMode</key>
 			<false/>
 			<key>GopPassThrough</key>
 			<string>Disabled</string>
