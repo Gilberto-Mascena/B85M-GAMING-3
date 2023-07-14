@@ -2,7 +2,9 @@
     push:    
       # Sequence of patterns matched against refs/tags
       tags:
-            - 'v*' # Push events to matching v*, i.e. v1.0, v20.15.10
+
+        - 'v*' # Push events to matching v*, i.e. v1.0, v20.15.10      
+
 
   name: Create Release
 
@@ -22,7 +24,7 @@
             tag_name: ${{ github.ref }}
             release_name: Release ${{ github.ref }}
             body: |
-              Alterações nesta Versão
+              Mudanças nesta Versão
               - Primeira Mudança:
               Adicionado OpenShell.efi ao diretório Tools
               
