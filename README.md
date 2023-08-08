@@ -8,7 +8,7 @@
 
 ## *Sistema Operacional*
 
-<img align="right" src="./Imagens/B85m.png" alt="B85M GAMING 3" width="430">
+<img align="right" src="./Imagens/banner.png" alt="foto B85M GAMING 3" width="430">
 
 *macOS* | *Catalina 10.15.7*
 :---: | :---
@@ -18,21 +18,21 @@
 
 *Config* | *Desktop*
 :---: | :---
- Placa Mae | [*B85M Gaming-3*](https://www.gigabyte.com/br/Motherboard/GA-B85M-Gaming-3-rev-10#ov)
- CPU | I3 4170
- GPU | Intel HD Graphics 4400
- Memória Ram | 2x8GB Total 16GB
- SSD Sata| Kingston A400 120GB
- Rede| Intel I217
+ *Placa Mae* | [*B85M Gaming-3*](https://www.gigabyte.com/br/Motherboard/GA-B85M-Gaming-3-rev-10#ov)
+ *CPU* | *I3 4170*
+ *GPU* | *Intel HD Graphics 4400*
+ *Memória Ram* | *2x8GB Total 16GB*
+ *SSD Sata* | *Kingston A400 120GB*
+ *Rede* | *Intel I217-V*
 ##
 
 ## *O que funciona*
 
-- [x] Video (onbord via HDMI).
-- [x] Áudio.
-- [x] LAN.
-- [x] USB.
-- [x] Sleep.
+- [x] *Video (onbord via HDMI).*
+- [x] *Áudio.*
+- [x] *Rede.*
+- [x] *USB.*
+- [x] *Sleep.*
 ##
 
 ## *Captura de telas*
@@ -48,7 +48,7 @@
 * Recomendação 2
   * *Use [`ProperTree`](https://github.com/corpnewt/ProperTree), para editar sua config.plist.*     
 * Recomendação 3
-  * *Use [`USBMap`](https://github.com/corpnewt/USBMap), para mapear suas portas USB, (apartir do OC 0.9.3, pode ser mapeadas com XHCIPortLimit + USBInjectAll).*
+  * *Use [`USBMap`](https://github.com/corpnewt/USBMap), para mapear suas portas USB, apartir do OC 0.9.3, pode ser mapeadas com XHCIPortLimit habilitada no config.plist + [`USBInjectAll`](https://github.com/Sniki/OS-X-USB-Inject-All/releases).*
 * Recomendação 4
   * *Extrair sua DSDT a partir do windows.*
   * *Use [`SSDTTime`](https://github.com/corpnewt/SSDTTime), para gera seus patches de SSDT.*    
@@ -68,7 +68,7 @@
 
 ## *Licença* 
 
-*The* [*MIT License*](https://github.com/Gilberto-Mascena/B85M-GAMING-3/blob/main/LICENSE.md) (*MIT*)
+*The* [*MIT License*](LICENSE.md) (*MIT*)
 
 *Copyright :copyright: 2020*
 ##

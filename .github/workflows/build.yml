@@ -23,10 +23,13 @@
             release_name: Release ${{ github.ref }}
             body: |
               _**Mudanças nesta Versão**_
-              - Primeira Mudança:
-              _Adicionado `OpenShell.efi`._              
-              - Segunda Mudança:
-              _Recomendado para facilitar a depuração._
-              _Acessado a partir do menu do Opencore._
+
+                - Primeira Mudança:
+                  _Atualizado `OpenCore` para `0.9.4`._
+                - Segunda Mudança:
+                  _Atualizadas as `kexts`:_
+                  _`lilu.kext`_
+                  _`WhateverGreen.kext`_
+                  _`AppleALC.kext`_
             draft: false
             prerelease: false
