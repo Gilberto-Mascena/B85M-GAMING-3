@@ -10,20 +10,24 @@
 
 <img align="right" src="./Imagens/banner.png" alt="foto B85M GAMING 3" width="430">
 
-*macOS* | *Catalina 10.15.7*
-:---: | :---
+_**macOS**_  _**Catalina 10.15.7**_
+
 ##
 
 ## *Meu Setup*
 
-*Config* | *Desktop*
-:---: | :---
- *Placa Mae* | [*B85M Gaming-3*](https://www.gigabyte.com/br/Motherboard/GA-B85M-Gaming-3-rev-10#ov)
- *CPU* | *I3 4170*
- *GPU* | *Intel HD Graphics 4400*
- *Memória Ram* | *2x8GB Total 16GB*
- *SSD Sata* | *Kingston A400 120GB*
- *Rede* | *Intel I217-V*
+ - _**Placa Mãe**_
+   - [*B85M Gaming-3*](https://www.gigabyte.com/br/Motherboard/GA-B85M-Gaming-3-rev-10#ov)
+ - _**CPU**_
+   - *Core I3 4170*
+ - _**GPU**_
+   - *Intel HD Graphics 4400*
+ - _**Memória Ram**_
+   - *2x8GB Total 16GB*
+ - _**SSD Sata**_
+   - *Kingston A400 120GB*
+ - _**Rede**_
+   - *Intel I217-V*
 ##
 
 ## *O que funciona*
