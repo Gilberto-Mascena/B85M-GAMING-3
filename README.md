@@ -45,6 +45,17 @@ _**macOS**_  _**Catalina 10.15.7**_
  ![Captura de Tela 2022-09-07 às 20 44 59](https://user-images.githubusercontent.com/103699861/189007640-4b0ecb58-bf56-4123-945d-c59d5a197017.png)
 ##
 
+## *Kexts usadas, (todas versões Releases)*
+
+- *[`WhateverGreen.kext`](https://github.com/acidanthera/WhateverGreen)*
+- *[`Lilu.kext`](https://github.com/acidanthera/Lilu)*
+- *[`VirtualSMC`](https://github.com/acidanthera/VirtualSMC), somente: `VirtualSMC.kext`, `SMCProcessor.kext` e `SMCSuperIO.kext`*.
+- *[`IntelMausi.kext`](https://github.com/acidanthera/IntelMausi)*
+- *[`CpuTscSync.kext`](https://github.com/acidanthera/CpuTscSync)*
+- *[`AppleALC.kext`](https://github.com/acidanthera/AppleALC)*
+- *`USBMap.kext`*
+##
+
 ## *Utilização*
 
 * Recomendação 1
