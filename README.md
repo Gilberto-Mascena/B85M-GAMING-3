@@ -14,7 +14,9 @@ _**macOS**_  _**Catalina 10.15.7**_
 
 ##
 
-## *Meu Setup*
+_**Meu Setup**_
+
+##
 
  - _**Placa Mãe**_
    - [*B85M Gaming-3*](https://www.gigabyte.com/br/Motherboard/GA-B85M-Gaming-3-rev-10#ov)
@@ -32,11 +34,11 @@ _**macOS**_  _**Catalina 10.15.7**_
 
 ## *O que funciona*
 
-- [x] *Video (onbord via HDMI).*
-- [x] *Áudio.*
-- [x] *Rede.*
-- [x] *USB.*
-- [x] *Sleep.*
+- [x] *Video (onbord via HDMI)*
+- [x] *Áudio*
+- [x] *Rede*
+- [x] *USB*
+- [x] *Sleep*
 ##
 
 ## *Captura de telas*
@@ -73,12 +75,13 @@ _**macOS**_  _**Catalina 10.15.7**_
 
 ## *Agradecimentos*
 
-- [*Acidanthera*](https://github.com/acidanthera)
+- [*Acidanthera Team*](https://github.com/acidanthera)
 - [*CorpNewt*](https://github.com/corpnewt)
 - [*CrisHotpatch*](https://t.me/crishotpatch)
 - [*Dortania*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html)
 - [*Dicas do Mateus*](https://www.youtube.com/c/DicasdoMateus)
 - [*Gabriel Luchina*](https://www.youtube.com/c/GabrielLuchina)
+- *E outros*
 ##
 
 ## *Licença* 
