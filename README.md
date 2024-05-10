@@ -1,9 +1,11 @@
 # *EFI OC B85M GAMING-3 macOS Catalina*
-
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Gilberto-Mascena/B85M-GAMING-3)
+![license](https://img.shields.io/github/license/Gilberto-Mascena/B85M-GAMING-3)
+[![GitHub stars](https://img.shields.io/github/stars/Gilberto-Mascena/B85M-GAMING-3)](https://GitHub.com/Gilberto-Mascena/B85M-GAMING-3)
+[![GitHub issues](https://img.shields.io/github/issues/Gilberto-Mascena/B85M-GAMING-3)](https://GitHub.com/Gilberto-Mascena/B85M-GAMING-3)
 ![tag](https://img.shields.io/github/v/release/Gilberto-Mascena/Z390M_GAMING?include_prereleases)
 ![release-date](https://img.shields.io/github/release-date/Gilberto-Mascena/B85M-GAMING-3)
 ![size](https://img.shields.io/github/repo-size/Gilberto-Mascena/B85M-GAMING-3)
-![license](https://img.shields.io/github/license/Gilberto-Mascena/B85M-GAMING-3)
 ##
 
 ## *Sistema Operacional*
@@ -42,8 +44,9 @@ _**Meu Setup**_
 ##
 
 ## *Captura de telas*
- 
+## *Sobre este mac*
  ![Captura de Tela 2022-06-19 às 19 54 43](https://user-images.githubusercontent.com/103699861/175837721-556d1306-439d-4d54-94ea-f96bef419adb.png) 
+## *Hackintool periféricos*
  ![Captura de Tela 2022-09-07 às 20 44 59](https://user-images.githubusercontent.com/103699861/189007640-4b0ecb58-bf56-4123-945d-c59d5a197017.png)
 ##
 
