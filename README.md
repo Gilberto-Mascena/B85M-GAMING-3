@@ -6,7 +6,8 @@
 [![tag](https://img.shields.io/github/v/release/Gilberto-Mascena/Z390M_GAMING?include_prereleases)](https://github.com/Gilberto-Mascena/B85M-GAMING-3/releases)
 ![release-date](https://img.shields.io/github/release-date/Gilberto-Mascena/B85M-GAMING-3)
 ![size](https://img.shields.io/github/repo-size/Gilberto-Mascena/B85M-GAMING-3)
-##
+
+---
 
 ## *Operational system*
 
@@ -14,11 +15,11 @@
 
 _**macOS**_  _**Catalina 10.15.7**_
 
-##
+---
 
 _**My Setup**_
 
-##
+---
 
  - _**Motherboard**_
    - [*B85M Gaming-3*](https://www.gigabyte.com/br/Motherboard/GA-B85M-Gaming-3-rev-10#ov)
@@ -32,8 +33,22 @@ _**My Setup**_
    - *Kingston A400 120GB*
  - _**Network**_
    - *Intel I217-V*
-##
 
+---
+
+<a name="ancora"></a>
+## Navigation
+- [*What works*](#ancora1)
+- [*Screenshot*](#ancora2)
+- [*Kexts used, (all Releases)*](#ancora3)
+- [*Recommended tools*](#ancora4)
+- [*Intel BIOS Settings*](#ancora5)
+- [*Thanks*](#ancora6)
+- [*License* ](#ancora7)
+
+---
+
+<a id="ancora1"></a>
 ## *What works*
 
 - [x] *Video (onbord HDMI)*
@@ -41,15 +56,23 @@ _**My Setup**_
 - [x] *Network*
 - [x] *USB*
 - [x] *Sleep*
-##
 
+[Top](#ancora)
+
+---
+
+<a id="ancora2"></a>
 ## *Screenshot*
-## *About this mac*
+
  ![screenshot 2022-06-19 às 19 54 43](https://user-images.githubusercontent.com/103699861/175837721-556d1306-439d-4d54-94ea-f96bef419adb.png) 
 ## *Hackintool peripherals*
  ![screenshot 2022-09-07 às 20 44 59](https://user-images.githubusercontent.com/103699861/189007640-4b0ecb58-bf56-4123-945d-c59d5a197017.png)
-##
 
+[Top](#ancora)
+
+---
+
+<a id="ancora3"></a>
 ## *Kexts used, (all Releases)*
 
 - *[`WhateverGreen.kext`](https://github.com/acidanthera/WhateverGreen)*
@@ -59,8 +82,12 @@ _**My Setup**_
 - *[`CpuTscSync.kext`](https://github.com/acidanthera/CpuTscSync)*
 - *[`AppleALC.kext`](https://github.com/acidanthera/AppleALC)*
 - *`USBMap.kext`*
-##
 
+[Top](#ancora)
+
+---
+
+<a id="ancora4"></a>
 ## *Recommended tools*
 
 * Recommendation 1
@@ -74,13 +101,21 @@ _**My Setup**_
   * *Use [`SSDTTime`](https://github.com/corpnewt/SSDTTime), to generate your SSDT patches.*    
 * Recommendation 5
   * *Use [`MaciASL`](https://github.com/acidanthera/MaciASL), to compile your patches into SSDT.*
-##
 
+[Top](#ancora)
+
+---
+
+<a id="ancora5"></a>
 ## *Intel BIOS Settings*
 
 - [*OpenCore Install Guide*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html#intel-bios-settings)
-##
 
+[Top](#ancora)
+
+---
+
+<a id="ancora6"></a>
 ## *Thanks*
 
 - [*Acidanthera Team*](https://github.com/acidanthera)
@@ -90,11 +125,18 @@ _**My Setup**_
 - [*Dicas do Mateus*](https://www.youtube.com/c/DicasdoMateus)
 - [*Gabriel Luchina*](https://www.youtube.com/c/GabrielLuchina)
 - *And others*
-##
 
+[Top](#ancora)
+
+---
+
+<a id="ancora7"></a>
 ## *License* 
 
 *The* [*MIT License*](LICENSE.md) (*MIT*)
 
 *Copyright :copyright: 2020*
-##
+
+[Top](#ancora)
+
+---
