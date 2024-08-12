@@ -16,7 +16,7 @@
   
         - name: Build project 
           run: |
-            zip -q -r EFI-package.zip ./EFI-package
+            zip -q -r *EFI-package.zip ./*EFI-package
             ls -l *.zip
   
         - name: Create Release
@@ -38,6 +38,6 @@
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           with:
             upload_url: ${{ steps.create_release.outputs.upload_url }}  
-            asset_path: ./EFI-package           
+            asset_path: ./*EFI-package           
             asset_name: EFI-package.zip            
             asset_content_type: application/zip
