@@ -64,10 +64,23 @@ _**My Setup**_
 <a id="ancora2"></a>
 ## *Screenshot*
 
- ![screenshot 2022-06-19 às 19 54 43](https://user-images.githubusercontent.com/103699861/175837721-556d1306-439d-4d54-94ea-f96bef419adb.png) 
-## *Hackintool peripherals*
- ![screenshot 2022-09-07 às 20 44 59](https://user-images.githubusercontent.com/103699861/189007640-4b0ecb58-bf56-4123-945d-c59d5a197017.png)
+![screenshot 2022-06-19 às 19 54 43](https://user-images.githubusercontent.com/103699861/175837721-556d1306-439d-4d54-94ea-f96bef419adb.png) 
 
+---
+![about](./img/about.png)
+## *Sound*
+![sound](./img/sound.png)
+## *Wired Network*
+![nwtwork](./img/network.png)
+## *Hackintool peripherals*
+![screenshot 2022-09-07 às 20 44 59](https://user-images.githubusercontent.com/103699861/189007640-4b0ecb58-bf56-4123-945d-c59d5a197017.png)
+![peripherals](./img/peripherals.png)
+## *Hackintool OpenCore Version*
+![opencore-version](./img/opencore-version.png)
+## *Hackintool kexts*
+![kexts](./img/kexts.png)
+## *Hackintool USB port mapping*
+![mapping-usb](./img/usb-mapping.png)
 [Top](#ancora)
 
 ---
