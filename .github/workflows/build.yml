@@ -36,8 +36,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          name: GA-B85M-GAMING-3-${{github.ref}}-EFI
-          tag_name: ${{ github.ref }}
+          name: GA-B85M-GAMING-3-${{github.ref}}-EFI          
           body_path: changelog.md
           prerelease: false
           files: |
