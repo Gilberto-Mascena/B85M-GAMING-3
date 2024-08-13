@@ -21,26 +21,16 @@ jobs:
           zip -q -r B85M.dGPU.iMacPro1.1.zip ./B85M\ dGPU\ \(iMacPro1\,1\)
           zip -q -r B85M.iGPU.iMac16.1zip ./B85M\ iGPU\ \(iMac16\,2\)
           ls -l *.zip
-
-      - name: Create Release
-        id: create_release
-        uses: actions/create-release@v1
+          
+      - name: Upload Release Asset        
+        uses: softprops/action-gh-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          name: GA-B85M-GAMING-3-${{ github.ref }}-EFI
           tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
-          body_path: changelog.md
-          draft: false
           prerelease: false
-
-      - name: Upload Release Asset
-        id: upload-release-asset 
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }} 
-          asset_path: ./*.zip
-          asset_name: B85M-GAMING-3-${{ steps.create_release.outputs.upload_url }}EFI
-          asset_content_type: application/zip
+          body_path: changelog.md
+          files:
+            ./B85M.dGPU.iMacPro1.1.zip
+            ./B85M.iGPU.iMac16.1.zip
