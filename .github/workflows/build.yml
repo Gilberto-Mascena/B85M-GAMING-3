@@ -36,8 +36,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          name: GA-B85M-GAMING-3-${{ github.ref }}-EFI          
-          prerelease: false
+          name: GA-B85M-GAMING-3-${{github.ref}}-EFI
+          tag_name: ${{ github.ref }}
           body_path: changelog.md
-          files:
-            ./*.zip
+          prerelease: false
+          files: |
+            B85M.dGPU.iMacPro1.1.zip
+            B85M.iGPU.iMac16.1.zip
