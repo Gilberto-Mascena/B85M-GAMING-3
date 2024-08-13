@@ -40,8 +40,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          name: ${{steps.create_release.outputs.upload_url}}
-          tag_name: GA-B85M-GAMING-3 ${{ github.ref }}
+          name: ${{steps.create_release.outputs.upload_url}}          
           prerelease: false
           body_path: changelog.md
           files: |
