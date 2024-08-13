@@ -1,9 +1,12 @@
+# GitHub Actions to build and release a project
+# Gigabyte B85M-GAMING-3 Hackintosh EFI
+
 on:
   push:       
     tags:
       - 'v*'  # Push events to matching v*, i.e. v1.0, v20.15.10
 
-name: Create Release
+name: Uploud EFI to Release
 
 jobs:
   build:
@@ -13,9 +16,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3 
 
-      - name: Build project 
+      - name: Package EFIs 
         run: |
-          zip -q -r EFIs_B85M.zip ./EFIs_B85M
+          zip -q -r B85M.iGPU.iMac16.2zip ./B85M\ iGPU\ \(iMac16\,2\)
+          zip -q -r B85M.dGPU.iMacPro1.1.zip ./B85M\ dGPU\ \(iMacPro1\,1\)
           ls -l *.zip
 
       - name: Create Release
@@ -36,7 +40,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}  
-          asset_path: ./EFIs_B85M.zip
-          asset_name: EFIs_B85M.zip
+          upload_url: ${{ steps.create_release.outputs.upload_url }} 
+          asset_path: ./*.zip
+          asset_name: B85M-GAMING-3-${{ steps.create_release.outputs.upload_url }}-EFI
           asset_content_type: application/zip
