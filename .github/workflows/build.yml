@@ -18,17 +18,25 @@ jobs:
 
       - name: Package EFIs 
         run: |          
-          zip -q -r B85M.dGPU.iMacPro1.1.zip . -i ./B85M\ dGPU\ \(iMacPro1\,1\)
-          zip -q -r B85M.iGPU.iMac16.1.zip . -i ./B85M\ iGPU\ \(iMac16\,1\)
+          zip -q -r B85M.dGPU.iMacPro1.1.zip ./B85M\ dGPU\ \(iMacPro1\,1\)
+          zip -q -r B85M.iGPU.iMac16.1.zip ./B85M\ iGPU\ \(iMac16\,1\)
           ls -l *.zip
+    
+      - name: Create Release      
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: Release ${{ github.ref }}
           
       - name: Upload Release Asset        
         uses: softprops/action-gh-release@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          name: GA-B85M-GAMING-3-${{ github.ref }}-EFI
-          tag_name: ${{ github.ref }}
+          name: GA-B85M-GAMING-3-${{ github.ref }}-EFI          
           prerelease: false
           body_path: changelog.md
           files:
