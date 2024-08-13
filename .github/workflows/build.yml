@@ -17,9 +17,9 @@ jobs:
         uses: actions/checkout@v3 
 
       - name: Package EFIs 
-        run: |
-          zip -q -r B85M.iGPU.iMac16.2zip ./B85M\ iGPU\ \(iMac16\,2\)
+        run: |          
           zip -q -r B85M.dGPU.iMacPro1.1.zip ./B85M\ dGPU\ \(iMacPro1\,1\)
+          zip -q -r B85M.iGPU.iMac16.1zip ./B85M\ iGPU\ \(iMac16\,2\)
           ls -l *.zip
 
       - name: Create Release
@@ -42,5 +42,5 @@ jobs:
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }} 
           asset_path: ./*.zip
-          asset_name: B85M-GAMING-3-${{ steps.create_release.outputs.upload_url }}-EFI
+          asset_name: B85M-GAMING-3-${{ steps.create_release.outputs.upload_url }}EFI
           asset_content_type: application/zip
