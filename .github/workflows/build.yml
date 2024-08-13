@@ -18,8 +18,8 @@ jobs:
 
       - name: Package EFIs 
         run: |          
-          zip -q -r B85M.dGPU.iMacPro1.1.zip ./B85M\ dGPU\ \(iMacPro1\,1\)
-          zip -q -r B85M.iGPU.iMac16.1zip ./B85M\ iGPU\ \(iMac16\,1\)
+          zip -q -r B85M.dGPU.iMacPro1.1.zip . -i ./B85M\ dGPU\ \(iMacPro1\,1\)
+          zip -q -r B85M.iGPU.iMac16.1zip . -i ./B85M\ iGPU\ \(iMac16\,1\)
           ls -l *.zip
           
       - name: Upload Release Asset        
