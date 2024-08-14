@@ -1,5 +1,6 @@
 # *EFI OC B85M GAMING-3 macOS Catalina*
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Gilberto-Mascena/B85M-GAMING-3)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Gilberto-Mascena/B85M-GAMING-3/.github%2Fworkflows%2Fbuild.yml)
 [![license](https://img.shields.io/github/license/Gilberto-Mascena/B85M-GAMING-3)](https://github.com/Gilberto-Mascena/B85M-GAMING-3?tab=MIT-1-ov-file)
 [![GitHub stars](https://img.shields.io/github/stars/Gilberto-Mascena/B85M-GAMING-3)](https://github.com/Gilberto-Mascena/B85M-GAMING-3/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/Gilberto-Mascena/B85M-GAMING-3)](https://github.com/Gilberto-Mascena/B85M-GAMING-3/issues)
