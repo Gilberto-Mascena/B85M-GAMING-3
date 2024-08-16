@@ -25,11 +25,16 @@
 _**My Setup**_
 
  - _**Motherboard**_
-   - [*B85M Gaming-3*](https://www.gigabyte.com/br/Motherboard/GA-B85M-Gaming-3-rev-10#ov)
+   - [*Gigabyte B85M Gaming-3*](https://www.gigabyte.com/br/Motherboard/GA-B85M-Gaming-3-rev-10#ov)
+ - _**BIOS Version**_
+   - *F2*
  - _**CPU**_
    - *Core I3 4170*
  - _**GPU**_
    - *Intel HD Graphics 4400*
+      - _EFI iGPU only_
+   - *RADEON RX 570 RED DRAGON Power Color*
+      - _EFI dGPU only_
  - _**Memory**_
    - *2x8GB Total 16GB*
  - _**SSD Sata**_
