@@ -10,17 +10,19 @@
 
 ---
 
-## *Operational system*
+## *Operating systems*
 
 <img align="right" src="./img/banner.png" alt="photo B85M GAMING 3" width="430">
 
-_**macOS**_  _**Catalina 10.15.7**_
+<div align="left">
+  <img src="./img/macos-catalina-icon.png" alt="logo macOS Catalina" width="55">
+  <img src="./img/macos-big-sur-icon.png" alt="logo macOS Big Sur" width="55">
+  <img src="./img/macos-monterey-icon.png" alt="logo macOS Monterey" width="55">
+</div>
 
 ---
 
 _**My Setup**_
-
----
 
  - _**Motherboard**_
    - [*B85M Gaming-3*](https://www.gigabyte.com/br/Motherboard/GA-B85M-Gaming-3-rev-10#ov)
