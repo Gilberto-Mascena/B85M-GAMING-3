@@ -34,9 +34,14 @@ _**My Setup**_
    - *Intel HD Graphics 4400*
 > [!IMPORTANT]
 > _EFI iGPU only_
+
+##
    - *RADEON RX 570 RED DRAGON Power Color*
 > [!IMPORTANT]
 > _EFI dGPU only_
+
+##
+
  - _**Memory**_
    - *2x8GB Total 16GB*
  - _**SSD Sata**_
