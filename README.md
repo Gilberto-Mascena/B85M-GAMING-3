@@ -70,7 +70,7 @@ _**My Setup**_
 ---
 
 <a id="ancora2"></a>
-## *Screenshot*
+## Screenshots
 
 ![screenshot 2022-06-19 às 19 54 43](https://user-images.githubusercontent.com/103699861/175837721-556d1306-439d-4d54-94ea-f96bef419adb.png) 
 
