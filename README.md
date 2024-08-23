@@ -57,7 +57,8 @@ _**My Setup**_
 ---
 
 <a id="ancora1"></a>
-## *What works*
+
+<details><summary><h2>What works</h2></summary>
 
 - [x] *Video (onbord HDMI)*
 - [x] *Sound*
@@ -66,35 +67,53 @@ _**My Setup**_
 - [x] *Sleep*
 
 [Top](#ancora)
-
----
+</details>
 
 <a id="ancora2"></a>
+
 ## Screenshots
 
 ![screenshot 2022-06-19 às 19 54 43](https://user-images.githubusercontent.com/103699861/175837721-556d1306-439d-4d54-94ea-f96bef419adb.png) 
 
 ---
 ![about](./img/about.png)
-## *Sound*
+
+<details><summary><h2>Sound</h2></summary>
+
 ![sound](./img/sound.png)
-## *Wired Network*
+</details>
+
+<details><summary><h2>Ethernet</h2></summary>
+
 ![nwtwork](./img/network.png)
-## *Hackintool peripherals*
+</details>
+
+<details><summary><h2>Hackintool peripherals</h2></summary>
+
 ![screenshot 2022-09-07 às 20 44 59](https://user-images.githubusercontent.com/103699861/189007640-4b0ecb58-bf56-4123-945d-c59d5a197017.png)
 ![peripherals](./img/peripherals.png)
-## *Hackintool OpenCore Version*
-![opencore-version](./img/opencore-version.png)
-## *Hackintool kexts*
-![kexts](./img/kexts.png)
-## *Hackintool USB port mapping*
-![mapping-usb](./img/usb-mapping.png)
-[Top](#ancora)
+</details>
 
----
+<details><summary><h2>Hackintool OpenCore Version</h2></summary>
+
+![opencore-version](./img/opencore-version.png)
+</details>
+
+<details><summary><h2>Hackintool kexts</h2></summary>
+
+![kexts](./img/kexts.png)
+</details>
+
+<details><summary><h2>Hackintool USB port mapping</h2></summary>
+
+![mapping-usb](./img/usb-mapping.png)
+
+[Top](#ancora)
+</details>
 
 <a id="ancora3"></a>
-## *Kexts used, (all Releases)*
+
+<details><summary><h2>Kexts used, (all Releases)</h2></summary>
 
 - *[`WhateverGreen.kext`](https://github.com/acidanthera/WhateverGreen)*
 - *[`Lilu.kext`](https://github.com/acidanthera/Lilu)*
@@ -105,11 +124,11 @@ _**My Setup**_
 - *`USBMap.kext`*
 
 [Top](#ancora)
-
----
+</details>
 
 <a id="ancora4"></a>
-## *Recommended tools*
+
+<details><summary><h2>Recommended tools</h2></summary>
 
 * Recommendation 1
   * *Use [`GenSMBIOS`](https://github.com/corpnewt/GenSMBIOS), to generate new serials for your SMBIOS in order to avoid conflicts with iServices.*
@@ -124,17 +143,16 @@ _**My Setup**_
   * *Use [`MaciASL`](https://github.com/acidanthera/MaciASL), to compile your patches into SSDT.*
 
 [Top](#ancora)
-
----
+</details>
 
 <a id="ancora5"></a>
-## *Intel BIOS Settings*
+
+<details><summary><h2>Intel BIOS Settings</h2></summary>
 
 - [*OpenCore Install Guide*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html#intel-bios-settings)
 
 [Top](#ancora)
-
----
+</details>
 
 <a id="ancora6"></a>
 ## *Thanks*
