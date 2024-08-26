@@ -1,3 +1,6 @@
+[Português Brasileiro](https://github.com/Gilberto-Mascena/B85M-GAMING-3/blob/main/README-pt_br.md) |
+[English](https://github.com/Gilberto-Mascena/B85M-GAMING-3/blob/main/README.md)
+
 # *EFI OC Gigabyte B85M GAMING-3*
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Gilberto-Mascena/B85M-GAMING-3)
