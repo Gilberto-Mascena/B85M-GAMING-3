@@ -1,4 +1,8 @@
+[English](https://github.com/Gilberto-Mascena/B85M-GAMING-3/blob/main/README.md) |
+[Português Brasileiro](https://github.com/Gilberto-Mascena/B85M-GAMING-3/blob/main/README-pt_br.md)
+
 # *EFI OC Gigabyte B85M GAMING-3*
+
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Gilberto-Mascena/B85M-GAMING-3)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Gilberto-Mascena/B85M-GAMING-3/.github%2Fworkflows%2Fbuild.yml)
 [![license](https://img.shields.io/github/license/Gilberto-Mascena/B85M-GAMING-3)](https://github.com/Gilberto-Mascena/B85M-GAMING-3?tab=MIT-1-ov-file)
@@ -52,7 +56,9 @@ _**My Setup**_
 ---
 
 <a name="ancora"></a>
+
 ## _Topic navigation_
+
 - [*What works*](#ancora1)
 - [*Screenshot*](#ancora2)
 - [*Kexts used, (all Releases)*](#ancora3)
@@ -162,6 +168,7 @@ _**My Setup**_
 </details>
 
 <a id="ancora6"></a>
+
 ## *Thanks*
 
 - [*Acidanthera Team*](https://github.com/acidanthera)
@@ -173,8 +180,6 @@ _**My Setup**_
 - *And others*
 
 [Top](#ancora)
-
----
 
 <a id="ancora7"></a>
 ## *License* 
