@@ -16,8 +16,10 @@
 
 ## *Operating systems*
 
-<div align="left">
-  <img src="./img/macos-three-int.png" alt="macOS icons"> 
+<div align="left">  
+  <img width="100" src="./img/macos-catalina-icon.png" alt="macOS Catalina icons"> 
+  <img width="100" src="./img/macos-big-sur-icon.png" alt="macOS Big Sur icons"> 
+  <img width="100" src="./img/macos-monterey-icon.png" alt="macOS Monterey icons">   
 </div>
 
 <div>
