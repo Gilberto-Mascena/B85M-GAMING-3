@@ -169,6 +169,9 @@ _**My Setup**_
 [Top](#ancora)
 </details>
 
+## [_Creating macOS Installer on Windows or Linux_](https://github.com/Gilberto-Mascena/How-to-create-a-macOS-installer-without-a-Mac)
+
+
 <a id="ancora6"></a>
 
 ## *Thanks*
@@ -184,6 +187,7 @@ _**My Setup**_
 [Top](#ancora)
 
 <a id="ancora7"></a>
+
 ## *License* 
 
 *The* [*MIT License*](LICENSE.md) (*MIT*)
