@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>#OC-1.0.1-REL-B85M GAMING_3 only iGPU</key>
+	<key>#OC-1.0.2-REL-B85M GAMING_3 only iGPU</key>
 	<string></string>
 	<key>#by Gilberto Mascena</key>
 	<string></string>
@@ -1119,6 +1119,8 @@
 			<false/>
 		</dict>
 		<key>ReservedMemory</key>
+		<array/>
+		<key>Unload</key>
 		<array/>
 	</dict>
 </dict>
