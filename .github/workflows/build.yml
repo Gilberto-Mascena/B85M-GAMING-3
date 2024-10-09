@@ -46,7 +46,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          name: ${{ steps.tag.outputs.release_tag }} GA-B85M-GAMING-EFI
+          name: ${{ steps.tag.outputs.release_tag }}
           tag_name: ${{ steps.tag.outputs.release_tag }}         
           prerelease: false
           draft: false
