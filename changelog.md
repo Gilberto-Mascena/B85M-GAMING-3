@@ -14,9 +14,7 @@ _**Changes in this Version**_
     - _SMCSuperIO 1.3.4_
     - _VirtualSMC 1.3.4_
     - _WhateverGreen 1.6.8_
-
-***
-
+    
 - _Now two versions available_
   - _EFI only iGPU_
   - _EFI only dGPU_
