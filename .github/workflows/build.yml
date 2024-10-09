@@ -21,6 +21,12 @@ jobs:
           zip -q -r B85M_dGPU.zip ./B85M_dGPU
           zip -q -r B85M_iGPU.zip ./B85M_iGPU
           ls -l *.zip
+
+      - name: Generate release tag
+        id: tag
+        run: |         
+          echo "::set-output name=release_tag::$(cat ReleaseTag.txt)"
+          cat ReleaseTag.txt
     
       - name: Create Release
         id: create_release
@@ -40,7 +46,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          name: Release ${{github.ref}}         
+          name: ${{ steps.tag.outputs.release_tag }} GA-B85M-GAMING-EFI
+          tag_name: ${{ steps.tag.outputs.release_tag }}         
           prerelease: false
           draft: false
           body_path: changelog.md
