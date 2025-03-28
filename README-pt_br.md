@@ -3,14 +3,14 @@
 
 # *EFI OC Gigabyte B85M GAMING-3*
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Gilberto-Mascena/B85M-GAMING-3)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Gilberto-Mascena/B85M-GAMING-3/.github%2Fworkflows%2Fbuild.yml)
-[![license](https://img.shields.io/github/license/Gilberto-Mascena/B85M-GAMING-3)](https://github.com/Gilberto-Mascena/B85M-GAMING-3?tab=MIT-1-ov-file)
-[![GitHub stars](https://img.shields.io/github/stars/Gilberto-Mascena/B85M-GAMING-3)](https://github.com/Gilberto-Mascena/B85M-GAMING-3/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/Gilberto-Mascena/B85M-GAMING-3)](https://github.com/Gilberto-Mascena/B85M-GAMING-3/issues)
-[![tag](https://img.shields.io/github/v/release/Gilberto-Mascena/Z390M_GAMING?include_prereleases)](https://github.com/Gilberto-Mascena/B85M-GAMING-3/releases)
-![release-date](https://img.shields.io/github/release-date/Gilberto-Mascena/B85M-GAMING-3)
-![size](https://img.shields.io/github/repo-size/Gilberto-Mascena/B85M-GAMING-3)
+[![Status de Manutenção](https://img.shields.io/badge/Maintained-Yes-brightgreen?style=for-the-badge)](https://GitHub.com/Gilberto-Mascena/B85M-GAMING-3)
+[![GitHub Actions Status](https://img.shields.io/github/actions/workflow/status/Gilberto-Mascena/B85M-GAMING-3/build.yml?style=for-the-badge)](https://github.com/Gilberto-Mascena/B85M-GAMING-3/actions)
+[![Licença](https://img.shields.io/github/license/Gilberto-Mascena/B85M-GAMING-3?style=for-the-badge)](https://github.com/Gilberto-Mascena/B85M-GAMING-3/blob/main/LICENSE.md)
+[![Estrelas no GitHub](https://img.shields.io/github/stars/Gilberto-Mascena/B85M-GAMING-3?style=for-the-badge)](https://github.com/Gilberto-Mascena/B85M-GAMING-3/stargazers)
+[![Problemas no GitHub](https://img.shields.io/github/issues/Gilberto-Mascena/B85M-GAMING-3?style=for-the-badge)](https://github.com/Gilberto-Mascena/B85M-GAMING-3/issues)
+[![Versão do Repositório](https://img.shields.io/github/v/release/Gilberto-Mascena/B85M-GAMING-3?include_prereleases&style=for-the-badge)](https://github.com/Gilberto-Mascena/B85M-GAMING-3/releases)
+![Data de Lançamento](https://img.shields.io/github/release-date/Gilberto-Mascena/B85M-GAMING-3?style=for-the-badge)
+![Tamanho do Repositório](https://img.shields.io/github/repo-size/Gilberto-Mascena/B85M-GAMING-3?style=for-the-badge)
 
 ---
 
