@@ -73,7 +73,7 @@ _**My Setup**_
 
 <a id="anchor1"></a>
 
-<details><summary><h2>What works</h2></summary>
+<details><summary><h2>What works 👀</h2></summary>
 
 - [x] *Video (onbord HDMI)*
 - [x] *Sound*
@@ -93,33 +93,33 @@ _**My Setup**_
 ---
 ![about](./img/about.png)
 
-<details><summary><h2>Sound</h2></summary>
+<details><summary><h2>Sound 👀</h2></summary>
 
 ![sound](./img/sound.png)
 </details>
 
-<details><summary><h2>Ethernet</h2></summary>
+<details><summary><h2>Ethernet 👀</h2></summary>
 
 ![nwtwork](./img/network.png)
 </details>
 
-<details><summary><h2>Hackintool peripherals</h2></summary>
+<details><summary><h2>Hackintool peripherals 👀</h2></summary>
 
 ![screenshot 2022-09-07 às 20 44 59](https://user-images.githubusercontent.com/103699861/189007640-4b0ecb58-bf56-4123-945d-c59d5a197017.png)
 ![peripherals](./img/peripherals.png)
 </details>
 
-<details><summary><h2>Hackintool OpenCore Version</h2></summary>
+<details><summary><h2>Hackintool OpenCore Version 👀</h2></summary>
 
 ![opencore-version](./img/opencore-version.png)
 </details>
 
-<details><summary><h2>Hackintool kexts</h2></summary>
+<details><summary><h2>Hackintool kexts 👀</h2></summary>
 
 ![kexts](./img/kexts.png)
 </details>
 
-<details><summary><h2>Hackintool USB port mapping</h2></summary>
+<details><summary><h2>Hackintool USB port mapping 👀</h2></summary>
 
 ![mapping-usb](./img/usb-mapping.png)
 
@@ -128,7 +128,7 @@ _**My Setup**_
 
 <a id="anchor3"></a>
 
-<details><summary><h2>Kexts used, (all Releases)</h2></summary>
+<details><summary><h2>Kexts used, (all Releases) 👀</h2></summary>
 
 - *[`WhateverGreen.kext`](https://github.com/acidanthera/WhateverGreen)*
 - *[`Lilu.kext`](https://github.com/acidanthera/Lilu)*
@@ -143,7 +143,7 @@ _**My Setup**_
 
 <a id="anchor4"></a>
 
-<details><summary><h2>Recommended tools</h2></summary>
+<details><summary><h2>Recommended tools 👀</h2></summary>
 
 * Recommendation 1
   * *Use [`GenSMBIOS`](https://github.com/corpnewt/GenSMBIOS), to generate new serials for your SMBIOS in order to avoid conflicts with iServices.*
@@ -162,7 +162,7 @@ _**My Setup**_
 
 <a id="anchor5"></a>
 
-<details><summary><h2>Intel BIOS Settings</h2></summary>
+<details><summary><h2>Intel BIOS Settings 👀</h2></summary>
 
 - [*OpenCore Install Guide*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html#intel-bios-settings)
 
