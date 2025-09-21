@@ -1,16 +1,23 @@
-_**Changes in this Version**_
+## Changes in this Version
 
-- _Updates in this release:_    
+### Updates in this release:    
 
-  - _OpenCore_
-    - _Version 1.0.4_
+#### OpenCore
 
-  - _Kexts_
-    - _AppleALC 1.9.4_
-    - _VirtualSMC 1.3.5_
-  
+- [x] Version 1.0.5
+
+#### Kexts
+
+- [x] AppleALC 1.9.5
+- [x] CpuTscSync 1.1.2
+- [x] Lilu 1.7.1
+- [x] IntelMausi (version not specified)
+- [x] RestrictEvents 1.1.6
+- [x] VirtualSMC 1.3.7
+- [x] WhateverGreen 1.7.0
+      
     
-- _🎉 Now two versions available_
+#### 🎉 Now two versions available
   - _EFI only iGPU_
   - _EFI only dGPU_
 
@@ -21,5 +28,5 @@ _**Changes in this Version**_
   >   - _To be used with internal graphics_
 
 
-  - _macOS will require the EFI directory on the boot disk!_
+   _macOS will require the EFI directory on the boot disk!_
     
